@@ -1,0 +1,4 @@
+[http]
+# Network here can't reach the cert-revocation server (CRYPT_E_NO_REVOCATION_CHECK).
+# Skip the revocation lookup so cargo can fetch from crates.io.
+check-revoke = false

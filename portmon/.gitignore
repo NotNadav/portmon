@@ -1,0 +1,15 @@
+# Rust build output
+/target
+
+# Cargo.lock IS committed for this binary crate (reproducible builds) — do not ignore it.
+
+# Editor / IDE
+/.vscode/
+/.idea/
+*.swp
+*~
+
+# OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store
